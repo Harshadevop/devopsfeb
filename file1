@@ -1,3 +1,8 @@
-good morning
-hai
-what are you doing
+#!/bin/bash
+
+echo "What is your name"
+read Preson
+echo "hello $Preson"
+ls -lrt
+
+
